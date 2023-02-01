@@ -125,7 +125,7 @@
 					"requires": [],
 					"gives": [],
 					"takes": [],
-					"unlocks": [{"room": 1, "unlock": 2}{"room": 1, "unlock": 3}],
+					"unlocks": [{"room": 1, "unlock": 2},{"room": 1, "unlock": 3}],
 					"hidden": false,
 					"repeatable": false
 				},
